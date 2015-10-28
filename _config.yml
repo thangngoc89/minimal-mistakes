@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            RABBIT LEARN
 locale:           en_US
 url:
 
@@ -9,7 +9,7 @@ url:
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: none
 sass:
   sass_dir: _sass
   style: compressed
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Rabit Team
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email:
